@@ -8,7 +8,7 @@ There are some things that are missing because I accidently moved the other file
 
     * Kaggle fakenews set that was used to compare the scraped articles against. 
 
-    * NPR and PBS scrapers
+    * NPR and PBS scraper
 
     * NPR Data 
 
